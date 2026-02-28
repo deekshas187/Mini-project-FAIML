@@ -100,7 +100,7 @@ Trend: Up
 
 ## Author
 Deeksha S  
-4th CSE A  
+4th Sem CSE A  
 Mini Project - FAIML
 
 ---
